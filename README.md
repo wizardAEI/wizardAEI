@@ -11,7 +11,7 @@
 ## 🧙 Hello
 
 - 🔭 I’m currently working on software engineer
-- 🌱 I’m currently learning Go, Web3D, Computer graphics
+- 🌱 I’m currently learning Ts, Go, Computer graphics
 - 👯 I’m looking to collaborate on every fun thing
 
 <!-- 比较好的开源项目卡片 -->
