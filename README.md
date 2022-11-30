@@ -1,5 +1,5 @@
 <h1 align="center">浮生若梦，趣事三千 🗻</h1>
-<div align="center"><img order-radius="100px" height="350px" src="https://github.com/wizardAEI/blog-images/blob/main/t01abc6e061cae27bc3.jpg"/></div>
+<div align="center"><img order-radius="100px" height="350px" src="https://github.com/wizardAEI/blog-images/blob/main/t01abc6e061cae27bc3.jpg" alt=""/></div>
 <br>
 <div align="center">
   <a href="https://juejin.cn/user/3457299575741608"><img src="https://img.shields.io/badge/JueJin-博客-1e80ff"></a>&emsp;
