@@ -5,7 +5,6 @@
   <a href="https://juejin.cn/user/3457299575741608"><img src="https://img.shields.io/badge/JueJin-博客-1e80ff"></a>&emsp;
   <a href="https://gitee.com/wizardAEI"><img src="https://img.shields.io/badge/gitee-国内仓库-c71d23"></a>&emsp;
   <a href="https://space.bilibili.com/434118077"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=wizardAEI" alt="访客统计" />
 </div>
 
 ## 🧙 Hello
