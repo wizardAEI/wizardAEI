@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on software engineer
 - 🌱 I’m currently learning Ts, Go, Computer graphics
 - 👯 I’m looking to collaborate on every fun thing
-- 🎇 还有很多有趣的项目被保存在了国内[gitee](https://gitee.com/wizardAEI)仓库中
+- 🎇 还有很多有趣的项目被保存在了国内[ Gitee ](https://gitee.com/wizardAEI)仓库中
 
 <!-- 比较好的开源项目卡片 -->
 <!--
