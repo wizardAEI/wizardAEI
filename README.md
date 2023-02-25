@@ -1,4 +1,4 @@
-<h1 align="center">浮生若梦，趣事三千🎇 </h1>
+<h1 align="center">浮生若梦，趣事三千</h1>
 <div align="center"><img order-radius="100px" height="350px" src="https://github.com/wizardAEI/blog-images/blob/main/t01abc6e061cae27bc3.jpg" alt=""/></div>
 <br>
 <div align="center">
