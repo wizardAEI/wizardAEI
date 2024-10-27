@@ -10,7 +10,7 @@
 ## 🧙 Hello
 
 - 🔭 I’m currently working on software engineer
-- 🌱 I’m currently learning JS, Ts, Go, Python and so on 
+- 🌱 I’m currently learning JS, Rust, Go, Python and so on 
 - 👯 I’m looking to collaborate on every fun thing
 - 🎇 还有很多有趣的项目被保存在了国内[ Gitee ](https://gitee.com/wizardAEI)仓库中
 
